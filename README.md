@@ -1,7 +1,7 @@
 # Note-taker
 
   ## Description
-  This app was created to take quick notes and have access to it anywhere. 
+  This application was created for users to be able to create notes at any given time.
 
   ---
 ## Screenshot: 
