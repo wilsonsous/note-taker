@@ -9,7 +9,6 @@
 
 
 ## Deployed Links
-On Website: https://notetaker-sp.herokuapp.com/ 
 
 ---
   ## Table of Contents
