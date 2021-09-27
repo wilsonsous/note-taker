@@ -5,8 +5,7 @@
 
   ---
 ## Screenshot: 
-
-<img width="1792" alt="Screen Shot 2021-09-27 at 6 16 47 PM" src="https://user-images.githubusercontent.com/78562158/134993623-2ec6a3a4-26ee-4a5d-be74-3e37af73137c.png">
+<img width="1792" alt="Screen Shot 2021-09-27 at 6 26 28 PM" src="https://user-images.githubusercontent.com/78562158/134993789-f9a04d9b-0964-4f78-935a-2ec963a10c43.png">
 
 
 
