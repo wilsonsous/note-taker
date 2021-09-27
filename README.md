@@ -1,7 +1,7 @@
 # Note-taker
 
   ## Description
-  This application was created for users to be able to create notes at any given time.
+  This application was created for users who prefer taking the technological route to taking notes. The user will be able to have access to this application at any time.
 
   ---
 ## Screenshot: 
